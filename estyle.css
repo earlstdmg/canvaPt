@@ -1,0 +1,169 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+body {
+    background-color: rgb(38, 145, 139)
+   }
+
+h2{
+        text-align: center;
+        margin: 10px;
+}
+footer{
+    border-radius: 4px;
+    border: 2px solid black;
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    top: 84%;
+    right: 31.5%;
+    background-color: skyblue;
+}
+p{
+    text-align: center;
+    font-size: large;
+    margin-top: 15px;
+}
+#oval1{
+    position: absolute;
+    left: 34.7%;
+    top: 100px;
+    width: 10%;
+    height: 14%;     
+}
+#oval2{
+    position: absolute;
+    left: 45%;
+    top: 100px;
+    width: 10%;
+    height: 14%;     
+}
+#oval3{
+    position: absolute;
+    left: 55%;
+    top: 100px;
+    width: 10%;
+    height: 14%;     
+}
+#circle1{
+    position: absolute;
+    left: 34.7%;
+    top: 194px;
+    width: 10%;
+    height: 15%;     
+}
+#circle2{
+    position: absolute;
+    left: 45%;
+    top: 194px;
+    width: 10%;
+    height: 15%;     
+}
+#circle3{
+    position: absolute;
+    left: 55%;
+    top: 194px;
+    width: 10%;
+    height: 15%;     
+}
+#rect1{
+    position: absolute;
+    left: 34.7%;
+    top: 295px;
+    width: 10%;
+    height: 15%;     
+}
+#rect2{
+    position: absolute;
+    left: 45%;
+    top: 295px;
+    width: 10%;
+    height: 15%;     
+}
+#rect3{
+    position: absolute;
+    left: 55%;
+    top: 295px;
+    width: 10%;
+    height: 15%;     
+}
+#tri1{
+    position: absolute;
+    left: 34.7%;
+    top: 397px;
+    width: 10%;
+    height: 15%;     
+}
+#tri2{
+    position: absolute;
+    left: 45%;
+    top: 397px;
+    width: 10%;
+    height: 15%;     
+}
+#tri3{
+    position: absolute;
+    left: 55%;
+    top: 397px;
+    width: 10%;
+    height: 15%;     
+}
+.upperPanel{
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 3%;
+    right: 48%;
+    background-color: skyblue;
+     margin-right: -75px;
+}
+#table{
+    border-radius: 5px;
+    border: 1px solid black;
+    display: flex;
+    position: absolute;  
+    width: 30%;
+    height: 62%;
+    right: 35%;
+    top: 15%;
+    background-color: skyblue;
+}
+.v1{
+    border-left: 2px solid black;
+    height: 61.9%;
+    position: absolute;
+    left: 45%;
+    top: 100px;
+}
+.v2{
+    border-left: 2px solid black;
+    height: 61.9%;
+    position: absolute;
+    left: 55%;
+    top: 100px;
+}
+ 
+.h1{
+    border-color: black;
+    position: absolute;
+    width: 30%;
+    top: 185px;
+    left: 475px;
+}
+.h2{
+    border-color: black;
+    position: absolute;
+    width: 30%;
+    top: 290px;
+    left: 475px;
+}
+.h3{
+    border-color: black;
+    position: absolute;
+    width: 30%;
+    top: 390px;
+    left: 475px;
+}
